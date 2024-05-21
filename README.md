@@ -1,9 +1,9 @@
-# Discontinuity (Euler) Filter for BrawlCrate
+# Discontinuity (Euler) Filter Plugin for BrawlCrate
 *BrawlCrate v0.42 or newer required.*  
 
 In BrawlCrate, navigate to Tools > Settings > Updater tab, and click the Manage Subscriptions button.  
 Click add, then paste the link to this Github repo: https://github.com/exul-anima/BrawlCrate-EulerFilter  
-These plug-ins will then be downloaded, and future updates will be pulled automatically!
+The plugin will then be downloaded, and future updates will be pulled automatically!
 
 ## What is this?
 
