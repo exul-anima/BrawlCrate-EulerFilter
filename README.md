@@ -9,7 +9,7 @@ The plugin will then be downloaded, and future updates will be pulled automatica
 
 This plugin fixes discontinuities in Euler rotations (usually resulting from baking animations in software like Blender/Autodesk Maya) that result in jittery interpolation of CHR0 animations. This most commonly manifests as jitteriness during playback in slow motion.
 
-This is specifically an attempt to port the feature as implemented in Blender 3.X.
+This is specifically an attempt to port the feature as implemented in Blender 3.X, with a few attempted improvements by me.
 
 ## Usage
 
