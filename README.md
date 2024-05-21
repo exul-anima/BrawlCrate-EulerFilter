@@ -29,6 +29,6 @@ Right click the bone in the CHR0 animation with the keyframes to filter, and und
 
 This is not a 100% fix to all discontinuity issues. There is only so much that can be automatically fixed. At times you will have to fix some discontinuities yourself. This tool is meant to help automate getting you 99% the way there.
 
-Credits to soopercool101 and the current/previous contributors to [BrawlCrate](https://github.com/soopercool101/BrawlCrate) and its API, markymawk for their [sample plugins](https://github.com/soopercool101/BrawlCrateSamplePlugins), and LearnOpenCV Tutorials for their rotation matrix code that's adapted in this plugin.
+Credits to soopercool101 and the current/previous contributors to [BrawlCrate](https://github.com/soopercool101/BrawlCrate) and its API, markymawk for their [sample plugins](https://github.com/markymawk/BrawlCratePlugins), and LearnOpenCV Tutorials for their rotation matrix code that's adapted in this plugin.
 
 All files within this repository are published under the GPLv3 license.
