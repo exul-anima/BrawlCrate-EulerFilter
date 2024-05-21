@@ -1,5 +1,5 @@
 __author__ = "Exul Anima"
-__version__ = "1.0.0 REX BETA"
+__version__ = "1.0.0 BETA"
 
 from BrawlCrate.API import *
 from BrawlCrate.NodeWrappers import *
