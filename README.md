@@ -19,11 +19,11 @@ Right click the **AnmChr(NW4R)** folder containing the animations to filter, and
 
 **For a single CHR0 animation file:**
 
-Right click the animation to filter, and under Plugins, select *Discontinuity (Euler) Filter*.
+Right click the CHR0 animation to filter, and under Plugins, select *Discontinuity (Euler) Filter*.
 
 **For a single bone's keyframes in a CHR0 animation file:**
 
-Right click the bone with the keyframes to filter, and under Plugins, select *Discontinuity (Euler) Filter*.
+Right click the bone in the CHR0 animation with the keyframes to filter, and under Plugins, select *Discontinuity (Euler) Filter*.
 
 ## Disclaimers
 
