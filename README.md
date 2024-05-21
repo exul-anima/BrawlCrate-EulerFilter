@@ -27,8 +27,8 @@ Right click the bone with the keyframes to filter, and under Plugins, select *Di
 
 ## Disclaimers
 
-This is not an 100% fix to all discontinuity issues. There is only so much that can be automatically fixed. At times you will have to fix some discontinuities yourself.
+This is not an 100% fix to all discontinuity issues. There is only so much that can be automatically fixed. At times you will have to fix some discontinuities yourself. This tool is meant to help automate getting you 99% the way there.
 
-This tool is meant to help automate getting you 99% the way there.
+Credits to soopercool101 and the current/previous contributors to [BrawlCrate](https://github.com/soopercool101/BrawlCrate) and its API, and markymawk for their [sample plugins](https://github.com/soopercool101/BrawlCrateSamplePlugins).
 
 All files within this repository are published under the GPLv3 license.
